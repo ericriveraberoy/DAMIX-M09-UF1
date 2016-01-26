@@ -1,14 +1,14 @@
-# CaracterÌstiques dels llenguatges mÈs difosos
+# Caracter√≠stiques dels llenguatges m√©s difosos
 
-> *Els llenguatges de programaciÛ mÈs difosos **sÛn aquells que mÈs es fan servir en cadascun dels diferents ‡mbits de la inform‡tica**. En lí‡mbit educatiu, per exemple, es considera un llenguatge de programaciÛ molt difÛs aquell que es fa servir a moltes universitats o centres educatius per a la docËncia de la iniciaciÛ a la programaciÛ.*
+> _Els llenguatges de programaci√≥ m√©s difosos **s√≥n aquells que m√©s es fan servir en cadascun dels diferents √†mbits de la inform√†tica**. En l‚Äô√†mbit educatiu, per exemple, es considera un llenguatge de programaci√≥ molt dif√≥s aquell que es fa servir a moltes universitats o centres educatius per a la doc√®ncia de la iniciaci√≥ a la programaci√≥._
 
-## CaracterÌstiques de la programaciÛ estructurada
-La programaciÛ estructurada es basa en el denominat teorema de líestructura.  Per aixÚ utilitza ˙nicament tres estructures:  seq¸Ëncia, selecciÛ i iteraciÛ,
-* **SequËncia**: Instruccions executades successivament, una darrere líaltra.
-* **SelecciÛ**: La instrucciÛ condicional amb doble alternativa, de la forma ìsi condiciÛ, llavors SentËnciaA, sinÛ SentËnciaB.
-* **IteraciÛ**: El bucle condicional ìmentre condiciÛ, fes SentËnciaAî, que executa les instruccions repetidament mentre la condiciÛ es compleix.
+## Caracter√≠stiques de la programaci√≥ estructurada
+La programaci√≥ estructurada es basa en el denominat teorema de l‚Äôestructura.  Per aix√≤ utilitza √∫nicament tres estructures:  seq√º√®ncia, selecci√≥ i iteraci√≥,
+* **Sequ√®ncia**: Instruccions executades successivament, una darrere l‚Äôaltra.
+* **Selecci√≥**: La instrucci√≥ condicional amb doble alternativa, de la forma ‚Äúsi condici√≥, llavors Sent√®nciaA, sin√≥ Sent√®nciaB.
+* **Iteraci√≥**: El bucle condicional ‚Äúmentre condici√≥, fes Sent√®nciaA‚Äù, que executa les instruccions repetidament mentre la condici√≥ es compleix.
 
-## CaracterÌstiques de la programaciÛ orientada a objectes
-Un dels conceptes importants introduÔts per la programaciÛ estructurada Ès líabstracciÛ de funcionalitats a travÈs de funcions i procediments. Aquesta abstracciÛ permet a un programador utilitzar una funciÛ o procediment coneixent nomÈs quË fa, perÚ desconeixent el detall de com ho fa.
+## Caracter√≠stiques de la programaci√≥ orientada a objectes
+Un dels conceptes importants introdu√Øts per la programaci√≥ estructurada √©s l‚Äôabstracci√≥ de funcionalitats a trav√©s de funcions i procediments. Aquesta abstracci√≥ permet a un programador utilitzar una funci√≥ o procediment coneixent nom√©s qu√® fa, per√≤ desconeixent el detall de com ho fa.
 
-> *Un objecte Ès una combinaciÛ de dades (anomenades atributs) i mËtodes (funcions i procediments) que ens permeten interactuar amb ell. En OO, doncs, els programes sÛn conjunts díobjectes que interactuen entre ells a travÈs de missatges (crides a mËtodes).*
+> *Un objecte √©s una combinaci√≥ de dades (anomenades atributs) i m√®todes (funcions i procediments) que ens permeten interactuar amb ell. En OO, doncs, els programes s√≥n conjunts d‚Äôobjectes que interactuen entre ells a trav√©s de missatges (crides a m√®todes).*
